@@ -12,7 +12,7 @@
 - [sagemaker-python-sdk documentation](https://sagemaker.readthedocs.io/en/stable/overview.html)
 
 ## SageMaker samples
-- [Sampes](https://github.com/awslabs/amazon-sagemaker-examples)
+- [Samples](https://github.com/awslabs/amazon-sagemaker-examples)
 
 
 ## Other AWS Machine Learning Services
